@@ -4,7 +4,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   /* Visual */
-  background-image: url("../imgs/ignasi_pattern_s.png");
+  background-image: url("../imgs/table-on-wooden-plank-326279.jpg");
 }
 
 html {
@@ -17,12 +17,12 @@ html {
 
 /* add space for fixed nav */
 main {
-  margin: 80px 0;
+  margin: 90px 0;
 }
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: #fff;
+  background-color: rgb(13, 2, 31);
 
   padding: 30px;
   margin-bottom: 30px;
@@ -42,7 +42,7 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: #fff;
+  color: rgb(88, 14, 14);
 
   /* Visual */
   background: #4aaaa5;
@@ -100,7 +100,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: #666;
+  background-color: rgb(3, 25, 37);
 }
 
 .text-muted-footer {
@@ -108,7 +108,7 @@ main {
   margin-top: 15px;
 
   /* Typography */
-  color: #fff;
+  color: rgb(20, 10, 165);
 }
 
 .two-toned-footer-color {
@@ -117,7 +117,7 @@ main {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #93a819;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
